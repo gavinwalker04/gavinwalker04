@@ -25,7 +25,7 @@ Here are my projects:
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/gw04)
+- [LinkedIn](https://www.linkedin.com/in/gw04/)
 
 <!---
 gavinwalker04/gavinwalker04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
