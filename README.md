@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a computer science student passionate about So
 
 Here are my projects:
 
+- [**Predicting Calorie Burn Rate**]([https://github.com/gavinwalker04/Class-Satisfaction-Survey](https://github.com/TaylorTurnerIT/Exercise-Data-Group-Project)): A Project using models to predict calorie burn rate of exercises given certain attributes.
 - [**Class Satisfaction Survey**](https://github.com/gavinwalker04/Class-Satisfaction-Survey): A simple survey designed using HTML and CSS for students to leave feedback on a class.
 - [**Beyond Wood App**](https://github.com/gavinwalker04/Beyond-Wood-App): A web application for a wood-working business to keep track of inventory, sales, events, etc to help efficiency of completing business needs.
 
