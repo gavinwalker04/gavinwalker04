@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a computer science student passionate about So
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **Inventory Management System**.
-- 🌱 I’m currently learning **Database Management, Web Development, Assembly, Data Science Fundamentals**.
+- 🔭 I’m currently working on a **Micro Bakery Application**.
+- 🌱 I’m currently learning **Web Development, Software Engineering, Operating Systems, Networks**.
 - 👯 I’m looking to collaborate on **Software/Web Development Projects**.
 - ⚡ Fun fact: **Born on Leap Day!**.
 
