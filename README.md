@@ -11,17 +11,20 @@ Welcome to my GitHub profile! I'm a computer science student passionate about So
 
 ## 🔧 Technologies & Tools
 
-![Your Skills](https://img.shields.io/badge/Skills-[Object%20Oriented%20Programming,%20Web%20Development,%20Database%20Management,%20Systems%20and%20Networking,%20Agile,%20Blade%20Templates,%20DevOps]-blue?style=flat&logo=python&logoColor=white)
+![Your Skills](https://img.shields.io/badge/Skills-[Web%20Development,%20Agile,%20Database%20Management,%20Object%20Oriented%20Programming,%20DevOps]-blue?style=flat&logo=python&logoColor=white)
 
-![Languages](https://img.shields.io/badge/Languages-[C++,%20Python,%20HTML,%20CSS,%20Bootstrap,%20Shell%20Scripting,%20R,%20SQL,%20NoSQL,%20NodeJS]-green?style=flat&logo=python&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-[HTML,%20JavaScript,%20CSS,%20Python,%20C++,%20Shell%20Scripting,%20R,%20SQL,%20MariaDB,%20NodeJS]-green?style=flat&logo=python&logoColor=white)
 
-![Tools](https://img.shields.io/badge/Tools-[GitHub,%20Laravel%20Livewire,%20VS%20Code,%20RStudio,%20PyCharm]-orange?style=flat&logo=python&logoColor=white)
+![Tools](https://img.shields.io/badge/Tools-[VS%20Code,%20GitHub,%20Bootstrap,%20J-Query,%20R-Studio,%20Docker,%20GCP]-orange?style=flat&logo=python&logoColor=white)
 
 ## 🌟 Projects
 
 Here are my projects:
 
-- [**Predicting Calorie Burn Rate**](https://github.com/TaylorTurnerIT/Exercise-Data-Group-Project): A Project using models to predict calorie burn rate of exercises given certain attributes.
+- [**Micro Bakery Application **](): Web application for tracking and handling business needs of a Micro Bakery.
+- [**Weather Application**](): PWA that pulls weather info (temp, humidity, precipitation) from API and displays it.
+- [**Predicting Exercise Effectiveness**](https://github.com/TaylorTurnerIT/Exercise-Data-Group-Project): A Project using models to predict calorie burn rate of exercises given certain attributes.
+- [**Blockchain Dashboard**](): Web app that tracks and adds to a fake cryptocurrency blockchain.
 - [**Class Satisfaction Survey**](https://github.com/gavinwalker04/Class-Satisfaction-Survey): A simple survey designed using HTML and CSS for students to leave feedback on a class.
 - [**Beyond Wood App**](https://github.com/gavinwalker04/Beyond-Wood-App): A web application for a wood-working business to keep track of inventory, sales, events, etc to help efficiency of completing business needs.
 
