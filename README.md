@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a computer science student passionate about So
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **Micro Bakery Application**.
-- 🌱 I’m currently learning **Web Development, Software Engineering, Operating Systems, Networks**.
+- 🔭 I’m currently working on a **Website for a Foundation**.
+- 🌱 I’m currently seeking learning opportunities in **Web and Mobile Development**.
 - 👯 I’m looking to collaborate on **Software/Web Development Projects**.
 - ⚡ Fun fact: **Born on Leap Day!**.
 
@@ -15,16 +15,16 @@ Welcome to my GitHub profile! I'm a computer science student passionate about So
 
 ![Languages](https://img.shields.io/badge/Languages-[HTML,%20JavaScript,%20CSS,%20Python,%20C++,%20Shell%20Scripting,%20R,%20SQL,%20MariaDB,%20NodeJS]-green?style=flat&logo=python&logoColor=white)
 
-![Tools](https://img.shields.io/badge/Tools-[VS%20Code,%20GitHub,%20Bootstrap,%20J-Query,%20R-Studio,%20Docker,%20GCP]-orange?style=flat&logo=python&logoColor=white)
+![Tools](https://img.shields.io/badge/Tools-[VS%20Code,%20GitHub,%20Bootstrap,%20JQuery,%20RStudio,%20Docker,%20GCP]-orange?style=flat&logo=python&logoColor=white)
 
 ## 🌟 Projects
 
 Here are my projects:
 
-- [**Micro Bakery Application **](): Web application for tracking and handling business needs of a Micro Bakery.
-- [**Weather Application**](): PWA that pulls weather info (temp, humidity, precipitation) from API and displays it.
+- [**Micro Bakery Application**](https://simplebakerydev.duckdns.org/): Web application for tracking and handling business needs of a Micro Bakery.
+- [**Weather Application**](https://github.com/gavinwalker04/gavinwalker04.github.io.git): PWA that pulls weather info (temp, humidity, precipitation) from API and displays it.
 - [**Predicting Exercise Effectiveness**](https://github.com/TaylorTurnerIT/Exercise-Data-Group-Project): A Project using models to predict calorie burn rate of exercises given certain attributes.
-- [**Blockchain Dashboard**](): Web app that tracks and adds to a fake cryptocurrency blockchain.
+- [**Blockchain Dashboard**](https://github.com/gavinwalker04/HippoCoin.git): Web app that tracks and adds to a fake cryptocurrency blockchain.
 - [**Class Satisfaction Survey**](https://github.com/gavinwalker04/Class-Satisfaction-Survey): A simple survey designed using HTML and CSS for students to leave feedback on a class.
 - [**Beyond Wood App**](https://github.com/gavinwalker04/Beyond-Wood-App): A web application for a wood-working business to keep track of inventory, sales, events, etc to help efficiency of completing business needs.
 
